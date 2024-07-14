@@ -1,0 +1,85 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px 30px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.dickerman img {
+    text-align: center;
+    box-shadow: 5px 10px 10px #223F59;
+    width: 50%;
+    height: 50%;
+    
+}
+
+.myDickerman img {
+    float: right; 
+    margin: 5px 5px 25px 8px;
+    width: 30%;
+    height: 30%;
+    box-shadow: 5px 10px 10px #BFA26B;
+}
+
+h1 {
+    color: #223F59;
+}
+
+h2{ 
+     color: #593B02;
+}
+
+header a {
+    color: white;
+}
+
+header a:hover {
+    color: #F29979; 
+}
+
+header li { color: white;
+    background-color: #223F59;
+    border:#223F59 solid 2px;
+    padding: 8px;
+    width: 10%;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+a {
+    color: #223F59;
+}
+
+a:hover {
+    color:#593B02;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    border: #223F59 solid 2px;
+    padding: 5px;
+    width: 20%;
+    
+}
+
+td {
+    border: #223F59 solid 2px;
+    padding: 8px;
+    text-align: center;
+   
+}
+
+.title {
+    text-align: center;
+}
